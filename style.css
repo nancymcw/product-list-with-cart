@@ -1,0 +1,12 @@
+@font-face {
+  font-family: RedHatText;
+  src: url(/assets/fonts/RedHatText-VariableFont_wght.ttf);
+}
+body {
+  font-family: RedHatText;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 700;
+}
